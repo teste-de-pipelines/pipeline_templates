@@ -1,5 +1,4 @@
 on:
-  # Vai ser executado quando outro pipeline o chamar.
   workflow_call: 
     inputs:
       variavel-demo:
