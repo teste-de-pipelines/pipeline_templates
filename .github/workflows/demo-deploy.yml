@@ -3,7 +3,7 @@ on:
     inputs:
       variavel-demo:
         required: true
-          type: string
+        type: string
 
 jobs:
   deploy:
@@ -21,3 +21,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
